@@ -6,7 +6,7 @@
 */
 var vows = require('vows'),
     assert = require('assert'),
-    nbowser = require('../lib/bowser.js');
+    nbowser = require('../lib/node-bowser.js');
 
 exports.test = vows.describe('check user agent').addBatch({
     'check mobile' : {
