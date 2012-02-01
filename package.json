@@ -1,6 +1,6 @@
 {
   "name": "node-bowser",
-  "description": "bad! browser detection for mobile, table and touch",
+  "description": "bad! browser detection for mobile, tablet and touch",
   "version": "0.1.0",
   "author": "Ivan Torres <pinguxx@gmail.com>",
   "keywords": ["browser detection ua user-agent mobile table touch"],
