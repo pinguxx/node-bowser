@@ -1,5 +1,7 @@
 # Node-bowser
 
+[![Build Status](https://secure.travis-ci.org/pinguxx/node-bowser.png)](http://travis-ci.org/pinguxx/node-bowser)
+
 Small module to test if the browser is desktop, mobile, tablet and touch device
 
 ## Install
