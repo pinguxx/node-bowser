@@ -1,14 +1,14 @@
 {
-  "name": "bowser",
-  "description": "bad! browser detection",
+  "name": "node-bowser",
+  "description": "bad! browser detection for mobile, table and touch",
   "version": "0.1.0",
   "author": "Ivan Torres <pinguxx@gmail.com>",
   "keywords": ["browser detection ua user-agent mobile table touch"],
-  "main" : "lib/bowser.js",
+  "main" : "lib/node-bowser.js",
   "directories" : { "lib" : "./lib" },
   "devDependencies": {
       "vows" : "0.6.1"
   },
-  "repository" : {"type": "git" , "url": "http://github.com/pinguxx/bowser.git" },
+  "repository" : {"type": "git" , "url": "http://github.com/pinguxx/node-bowser.git" },
   "engines": { "node": "> 0.2.0" }
 }

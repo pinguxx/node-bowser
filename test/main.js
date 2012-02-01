@@ -4,5 +4,5 @@
  * Test runner
  * 
 */
-var bowser = require('./test');
-bowser.test.run();
+var nbowser = require('./test');
+nbowser.test.run();
