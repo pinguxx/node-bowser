@@ -1,7 +1,7 @@
-//Copyright (C) 2011  Ivan Torres -MrPix
+//Copyright (C) 2012  Ivan Torres -MrPix
 /**
  * 
- * Controller testing
+ * node-bowser testing
  * 
 */
 var vows = require('vows'),
