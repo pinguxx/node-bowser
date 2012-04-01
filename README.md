@@ -45,3 +45,5 @@ using vows
   Copyright (C) 2011  Ivan Torres -MrPix
 
   See license
+  
+  <a href="http://www.ipseitycloud.com"><img src="http://ipseitycloud.com/cld/images/ipc_small.png" /></a>
